@@ -1,6 +1,7 @@
 #Project Setup
 general:
   productiveBranch: 'master'
+  projectName: 'cloud-s4-sdk-book'
 
 #Steps Specific Configuration
 steps:
